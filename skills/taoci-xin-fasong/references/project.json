@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "project_root": "..",
+  "roster": "data/roster.xlsx",
+  "materials_dir": "outputs/materials",
+  "work_dir": "work/mail",
+  "roster_helper": "../taoci-skills-public/skills/taoci-yu-ziwo-chenshu/scripts/workflow_io.py",
+  "sender": "sender@example.invalid",
+  "expected_subject": "博士申请-示例机构-示例申请人",
+  "statement_pdf_pages": 1,
+  "attachment_overrides": {},
+  "transport": {
+    "smtp_host": "smtp.example.invalid",
+    "smtp_port": 465,
+    "imap_host": "imap.example.invalid",
+    "imap_port": 993
+  }
+}

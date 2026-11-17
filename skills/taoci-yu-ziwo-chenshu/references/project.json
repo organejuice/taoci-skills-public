@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "project_root": "..",
+  "roster": "data/roster.xlsx",
+  "output_dir": "outputs/materials",
+  "letter_template": "templates/letter.docx",
+  "statement_pdf": "templates/statement.pdf",
+  "statement_docx": "templates/statement.docx",
+  "work_dir": "work/materials",
+  "baseline_advisor": "模板导师",
+  "baseline_direction": "示例研究方向",
+  "statement_opening_deletions": [],
+  "interest_length": {"target_min": 150, "target_max": 200},
+  "runtime": {"render_backend": "word"}
+}

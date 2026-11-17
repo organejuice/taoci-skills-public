@@ -1,0 +1,30 @@
+# Local credentials and environment settings
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Personal application inputs and generated artifacts
+private-workspace/
+private-data/
+work/
+outputs/
+*.docx
+*.pdf
+*.xlsx
+*.eml
+*.log
+authorization.json
+ledger.jsonl
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

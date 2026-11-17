@@ -1,0 +1,6 @@
+interface:
+  display_name: "套磁与自我陈述（公开版）"
+  short_description: "使用自备名录和模板，核验研究方向并生成申请材料"
+  default_prompt: "使用 $taoci-yu-ziwo-chenshu 为我指定的导师生成套磁信和自我陈述。"
+policy:
+  allow_implicit_invocation: true
